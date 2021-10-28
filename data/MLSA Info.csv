@@ -1,0 +1,23 @@
+Java MLSA,Python MLSA
+AffectiveTweets,Ray
+BoofCV,DeepChem
+CoreNLP,ChainerCV
+DataCleaner,Tensor2Tensor
+DeepLearning4j,ML-Agents
+DigitRecognizer,NiftyNet
+ElasticSearch,Tensorpack
+Elki,DeepPalov
+Grobid,OpenNMT-py
+Jenetics,AllenNLP
+Jgap,Tpot
+Knime-core,MatchZoo
+Mahout,Texar
+Mallet,OpenSeq2Seq
+Moa,Bert-as-service
+Modernmt,Catalyst
+Mutters,Deepvariant
+Neo4j-nlp,Horodov
+Smile,Luminoth
+Submarine,AstroML
+TableSaw,PyTorch-NLP
+Vespa,Gentun

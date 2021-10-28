@@ -1,0 +1,361 @@
+java MLSA,Commit ID,IsML,Bug Fix type,HasTD,TD Name
+AffectiveTweets,2aa119e840e70022cbe411e64575daecae5e3a5f,1,Fix calculation,1,Validation Calculation
+BoofCV,ea7c295ed1543956ff31d614520ef5191b1efff8,1,Fix initialization,1,Configuration debt
+BoofCV,8a4ce40a2f30c0c60e9923bc6ae8418667f85894,0,,,
+BoofCV,e06327f10f742aca9fa266828901187dacca5c5e,1,Fix data processing,1,Data preprocessing
+BoofCV,28d3bd08e03d5db4f7b005c30ee3a9b386d725db,1,Unnecessary code removal,1,"Unnecessary model code"
+BoofCV,ac2cba61abea2a41d77550cddd948612cd54725b,0,,,
+BoofCV,b4d39a4410297571932952688f100bdebe9c12d7,1,Fix default value,1,Configuration debt
+BoofCV,87a1d13f3e7831ccebedc019a1ed521cecaa9c48,1,Fix estimation,1,Validation Calculation
+BoofCV,537dcbf46519388fa5b992c88e7ff5f4032ee51b,1,Fix value update,1,Parameter estimation
+BoofCV,f975d7b05add018b2bfaea93b0824b53a72f221a,0,,,
+BoofCV,c0bafdb79fce89993a8273954a9c9a5387586b03,0,,,
+BoofCV,0c3d09725ef44821a39759d9eacb51d4163e572f,0,,,
+BoofCV,dd36d386b7848f9cdd341459ac9e483c17acac91,0,,,
+BoofCV,c258c9e501a5ef642e3ed281d85e84d92f45a831,1,Fix initialization,1,Configuration debt
+BoofCV,a51232c280d7af8215d1c4ed9ea9953c9b54ee39,1,Fix Model setup,1,Data preprocessing
+BoofCV,59b3a44d3d0ecbc6f4a9629bade9807dac014aa1,1,Fix calculation,1,Configuration debt
+BoofCV,b576fbb5d9a99780d84d16c983f80dbb1b6946b6,1,Fix Model setup,1,Data preprocessing
+BoofCV,a324c9705c29369ad709fe6a58bff8022e7f735a,0,,,
+BoofCV,e363666838eb30ce62a2b748fc6c93f1b5beebd5,1,Fix initialization,1,Configuration debt
+CoreNLP,b6503be9c0630a7e0563b2ee99bb1b66a2d2a4c0,1,Fix initialization,1,Configuration debt
+CoreNLP,0b57e784358d0f004ff3eff9a5367f483faf024d,1,Fix Model setup,1,Model code styling
+CoreNLP,ae6193d6e56688ef7a91fbf0e8fdfe542013507f,1,Fix Model setup,1,Hyperparameter tuning
+CoreNLP,cb740fb45277664eb13dd1e4cae4c98485f88174,1,Fix calculation,1,Parameter estimation
+CoreNLP,4a9d7457934350576e9e37a7f253066f4a5d3cce,1,Fix initialization,1,Configuration debt
+CoreNLP,f5dfbb96c65b88d1eb2ec6b917bd0b8cc111450f,0,,,
+CoreNLP,45ccabb9b0f8f4b32d7df00b477a4bdfb08354a7,0,,,
+CoreNLP,28d0162374c8bc200643f6ce470ee8e132a42196,0,,,
+CoreNLP,b63c28a7dcf174940727074558b5146c76a1675a,1,Fix initialization,1,Configuration debt
+CoreNLP,a30305ce2e7a22cb63fb3e8b91abcfa67afd0eb1,1,Fix Model setup,1,Configuration debt
+CoreNLP,8737b2a0f9fddab731dee8239d84dc237ac6de12,1,Fix exception,1,Unstable code
+CoreNLP,55776d3ff34f83ef7ac60e74970b8e2d1a590e8f,1,Fix Model setup,1,Configuration debt
+CoreNLP,421f34015655ba0372bc35c1a679d5d147ae6291,1,Fix value update,1,Monitoring and testing
+CoreNLP,20df1e6155ec8ef667cfeaf51c6e1461ad8f5784,1,Fix Model setup,1,Validation calculation
+CoreNLP,c8b050c55b3314f81eed3bfcc51b35c95d720226,1,Fix Model setup,1,Configuration debt
+DataCleaner,198e2f3ed4452f3d01f353847d1ca44004f3c1c3,1,Fix exception,1,Unstable code
+DataCleaner,2c10e844c65c3acab962e6b3d0f0881676f90c72,0,,,
+DataCleaner,f4c11b52776fc17af406dc95351296d7efba3645,0,,,
+DataCleaner,8ea98155691d8affed2cad8e557cfaa4c81417ce,0,,,
+DeepLearning4j,55a3d9bb2cbc6e71f4cc61058e744b065c6cd948,0,,,
+DeepLearning4j,3900d9ff06e0e3c4289474c9aebf04a165be7eaa,1,Fix library issue,0,
+DeepLearning4j,b370544b8f7787730ed742a4fe1d3d4ceba1926e,0,,,
+DeepLearning4j,5a0904cb4c4223c4e3be42acd24b84c55a442125,1,Fix exception,1,Unstable code
+DeepLearning4j,3fb9aecb59f437f9d2a5f4ac7b34b7773123bb49,1,Fix exception,1,Unstable code
+DeepLearning4j,b57f1d52cc153edfc550c93623e10d163598e26a,1,Fix value update,1,Hyperparameter tuning
+DeepLearning4j,0527ab8d9827db0d267623a3c666621f68244900,1,Fix validation,1,Validation process
+DigitRecognizer,ce19f969eb5118cbf6dd9a18073868828dc47c79,1,Fix Model setup,1,Configuration debt
+ElasticSearch,de9d903b1e834184518a581d857b17fc4e21124f,0,,,
+ElasticSearch,c3633ab99ff52cf4e7e4449a14001a0c8cb82b74,0,,,
+ElasticSearch,d1103699684df126d30faa56ccc005ef7ff4d91f,0,,,
+ElasticSearch,0156bcbf3203e656901a3d587b5b5cdf1601735e,0,,,
+ElasticSearch,9ad8c085056e3dd239a23fa855add4e0c618a058,1,Fix default value,1,Configuration debt
+ElasticSearch,88f3afe4b51b8e237c7493750e300e328f5792b6,0,,,
+ElasticSearch,a16f80a8321776aea6a105315ffc503014e45732,0,,,
+ElasticSearch,4a5242c9e51c8a81fb210de0273f687160a2cf16,1,Fix Model setup,1,Configuration debt
+ElasticSearch,d611ab48550180bd735d2f9819f16932dd38b167,0,,,
+ElasticSearch,010493682c94ee4f4384a3b2bba85294bd5b8f9e,0,,,
+ElasticSearch,9a152ee5fa058ed72952513ab78064dc71e6d32e,0,,,
+ElasticSearch,b8401e1f9950192640f5e25aac8098a894a55277,1,Fix value update,1,Monitoring and testing
+ElasticSearch,b8401e1f9950192640f5e25aac8098a894a55277,0,,,
+ElasticSearch,caf723570d8e52c52b1f6bd378f197c0af338c13,1,Fix implementation,0,
+ElasticSearch,283445b9d83caa5d86e7bfdf4095575ee2490306,0,,,
+ElasticSearch,56e525f4f9a986c3a834f52a88b230b2fc4a982e,0,,,
+ElasticSearch,e7af85710f5e46aad4feeb3df5116bee4a9f7fc4,1,Fix calculation,1,Data preprocessing
+ElasticSearch,275ae2d4da6e5ca6b6e97aa2f00a19a759efe011,0,,,
+ElasticSearch,8b5437010ce28df628d87b14c00e5c1cc33c91b1,1,Fix Model setup,1,Unstable code
+ElasticSearch,98943a28bef8a66014ce9a32ba37e0b8864b1d2c,1,Unnecessary code removal,1,"Unnecessary model code"
+ElasticSearch,04c766543285cc5f2a795b89d47dc84ab9329427,0,,,
+ElasticSearch,ce88d7f9ab8932b0d0db32021c622c3f5a86cd6e,0,,,
+ElasticSearch,612201aee0521f0340f0cba43678ef454437b3e0,1,Fix library issue,1,Configuration debt
+ElasticSearch,5e0f67b5163b697b29de9c15ba4b7c8f042d7ca4,1,Fix calculation,1,Validation calculation
+ElasticSearch,6577503b3793399f4ff4d62d6d9ae2390d992ed1,0,,,
+ElasticSearch,0d63fd68a87299732a29c1e018de1d94c8d4b9a8,0,,,
+ElasticSearch,5172b58c55fb649da512c8204c49cd4141914fd8,1,Fix data processing,1,Configuration debt
+ElasticSearch,18ea26c228cd9a1baf45d3b5702bce7a18a3f862,1,Fix Model setup,1,Configuration debt
+ElasticSearch,80ede081c3d455c4f7dd19696d3149e4ab2f1325,1,Fix exception,1,Unstable code
+ElasticSearch,8128f398cac25978f2c80ad8aa21697edc2cdb6d,0,,,
+ElasticSearch,992ab28cfdc6dedfd020a982599fad63143ffa32,0,,,
+ElasticSearch,9c55bca8fbe3c2a37693b2d3c2db7bb326a890de,1,Fix threading,1,Unstable code
+ElasticSearch,c237263ad1f3c40730a06aa37be4dd4092640aa1,0,,,
+ElasticSearch,25c6e8512d5fd7ed2138cad713f2714f52e881c7,0,,,
+ElasticSearch,25bc8c4b5a0394cb1116361ff1d0fa432ed7053e,0,,,
+ElasticSearch,681239b41324cafc8eb211f781cacea74386f672,0,,,
+ElasticSearch,943dbb8ab60356923a532c144919768870d36825,0,,,
+ElasticSearch,e5e8fa8b548cb84348cc500c70d860fec01ea7ff,1,Fix exception,1,Unstable code
+ElasticSearch,5b1ee8bd749ea553a4aad57962a798a4ff98da77,1,Fix calculation,1,Data preprocessing
+ElasticSearch,38ceeb5c30f49767c6656b57a7bbb4e202d38b2e,0,,,
+ElasticSearch,5871df4cfe5e062b9d18aa4b10007a523d71efae,1,Fix exception,1,Unstable code
+ElasticSearch,22022ea25fc90dab3ae14095e70cb0ae25bbe014,1,Fix validation,1,Validation process
+ElasticSearch,ee0e9216435ad73d91207b6ae5a3870ad9e139e7,0,,,
+ElasticSearch,e3126dfac03a63e3e90dda09b2c7f9a098682287,0,,,
+ElasticSearch,f7071325c4f21e7fc7071db28afa57f6a8bcb691,0,,,
+ElasticSearch,f3000ba9fd779685426c700a57e60a21e2c548c4,1,Fix data processing,1,Unstable code
+ElasticSearch,efc32746eb75836274e2a4ae4bbd9c47e5c5d68c,0,,,
+ElasticSearch,bd87f8de3ac84eb408d5ada0976664545c9228a0,0,,,
+ElasticSearch,e9a3932dbce9bbc3d9e216a5c239aadfddef930a,0,,,
+ElasticSearch,c7dca0145397d60584bbf50934cc5f56b4a95a61,0,,,
+ElasticSearch,a3d8022dc50e9d33f40177b1ab95c5f2d4fc78ab,0,,,
+ElasticSearch,f6fa056f1c7620c3d6f9858248965d13f79f44b5,1,Fix clustering,0,
+ElasticSearch,5eb38ec51782651a2ed88f96d514ce6b3f253bb7,1,Fix threading,1,Unstable code
+ElasticSearch,f3c87929d1a6990257b645cb18553783dd14d8aa,0,,,
+ElasticSearch,ad69694863a23abe3070ec81662d9158001be497,1,Fix clustering,0,
+ElasticSearch,1ba9770037c29c41cd6ee306957842e00489c320,0,,,
+ElasticSearch,113d1d3eab758d7334a60bafbb125d8910a63387,0,,,
+ElasticSearch,25accbcd50b70ebb4d6f66ae5f0e6d3727f0e07d,0,,,
+ElasticSearch,e441e0dc4e0d4e97cbb77f200a94c27014f32300,0,,,
+ElasticSearch,f9fc9bdb20f70f29be37ce1b23d903062bc17dae,0,,,
+ElasticSearch,e66bd4359a5d5e03a04a4a8a6bb26f25fe107f24,1,Fix initialization,1,Configuration debt
+ElasticSearch,6b5fc35e4458e60a7ca5822584ec6a60562f2c01,0,,,
+ElasticSearch,22b13f54494ae2d992eda110f573566043ea5e24,1,Fix data processing,0,
+ElasticSearch,15c924e287075575c520e6bb8c3ffd8ec58201fc,1,Fix data processing,1,Configuration debt
+ElasticSearch,6e4606bd8580d342917c3f59784ee8561e67da20,1,Fix model setup,1,Configuration debt
+ElasticSearch,6871f14fdd2782ba166f87628958d2b3a4969705,0,,,
+ElasticSearch,91c82e76fb65445f84269eed72db09d396593703,1,Fix data processing,1,Unstable code
+ElasticSearch,fc815ddb7547c83c9bd8aced8113db67322efbd7,1,Fix initialization,1,Configuration debt
+ElasticSearch,34f2cc78f661170ee3b3b2e703e6e06632189ef7,1,Fix clustering,0,
+ElasticSearch,57cd8f765ff74cc6a620f23f8c658bba6a3e1eee,0,,,
+ElasticSearch,65d40468b8020df812ce8637cee657ef865c0298,0,,,
+ElasticSearch,d8417dcb8c4322003078b8daf22fa82b9c230949,0,,,
+ElasticSearch,f8309a0706d86020a6af38c7f155760c09c2bee1,1,Fix validation,1,Configuration debt
+ElasticSearch,bb22bbaed1689577e1104ed884b3cb28650e21d6,0,,,
+ElasticSearch,bf071222ed161410722b79f8cdf623c53ea3daf6,0,,,
+ElasticSearch,9fae152cf531d6602cbb6b93e41fc956b73bc80b,0,,,
+ElasticSearch,40700f22b19ec07ad74a0667109681c66b51cf52,1,Fix exception,1,Unstable code
+ElasticSearch,a6a993ff084a8226d44b700215d32146ed87c495,0,,,
+ElasticSearch,a92907c47e42c98376939390225ce87e45b78cc4,0,,?,
+ElasticSearch,5d7ef8f58578931cad9490300cc918d951b8306e,1,Fix Data Processing,0,
+ElasticSearch,ede60df804a883d31379937e6eec9fa0afe67de4,0,,,
+ElasticSearch,46c1272ed3ad23bf203bc74241dce28d3523cea9,1,Fix model setup,1,Configuration debt
+ElasticSearch,7ab6a7e83ac11d2aecdd6591fe8ef5bc89d74092,1,Fix exception,1,Unstable code
+ElasticSearch,df59288b729a0712dc0783eebb92661507bbef91,0,,,
+ElasticSearch,9d4e3efad4f9f07f3b5c0240a1ffc071eb4e8c64,1,Fix implementation,0,
+ElasticSearch,7112d4368f0993f4e83941bfa4fc3d1c78287d38,0,,,
+ElasticSearch,3eabb3acfda1882324769714d8fc25f8c447c788,0,,,
+ElasticSearch,610694446a2eff51b0550689d7da5988bb6e2f2a,0,,,
+ElasticSearch,ef85412f98e97ff5471013eab59fd8cb3046c17a,0,,,
+ElasticSearch,0b9f3e92ba578f41e062116f48905f158d26c138,0,,,
+ElasticSearch,5bd31a6cca0d7ea9abbd01be19b0a8a66d6ab4a7,1,Fix default value,1,Model code comprehension
+ElasticSearch,933c4f42b329fe231b89d8d50beaf31f494d69db,0,,,
+ElasticSearch,933c4f42b329fe231b89d8d50beaf31f494d69db,1,Fix data processing,0,
+ElasticSearch,6ed2624772bdf30e4f8ab74240bd69eaae2d097b,1,Fix data processing,0,
+ElasticSearch,09965cb370e29bc2ef5677af07626c5d37e7eaa6,1,Fix exception,1,Unstable code
+ElasticSearch,36bc6f738078e9fe23fc4e7bf7a433462b2fedac,0,,,
+ElasticSearch,4ffd8a663c44f8ddd3a54ced2aa745a3665056b7,0,,,
+ElasticSearch,fd9266dbc631bd7763602428aac1513f91813d19,1,Fix clustering,0,
+ElasticSearch,22415fa2de1d7d07cea7dd5e7263eb1ed4270503,1,Fix Data Processing,1,Data preprocessing
+ElasticSearch,e49a8454a6feb11461689845831fc62ac5c2feb5,0,,,
+ElasticSearch,55a5c26de8023fa65c0f231666034649f963f93f,0,,,
+ElasticSearch,2b639ae1b5e62ead1f21e7363b958d81d0df7999,1,Fix implementation,0,
+ElasticSearch,27f69d40f3a64794048f007f5df21fe98022650d,1,Fix Data Processing,1,Data preprocessing
+ElasticSearch,4d201d14154491a0e28d477256d1e4728ef0fd80,0,,,
+ElasticSearch,4dec14d5da61a5efd6c0c7b00252aa7bbbedca11,0,,,
+ElasticSearch,657686cefb736999b2231b4caee318da14e9462a,1,Fix exception,1,Unstable code
+ElasticSearch,ac951e86d15ce1571d72de3a85c8cfff1524867e,0,,,
+ElasticSearch,1e937fd5d1ee6265782c311593a8711b0e537003,0,,,
+ElasticSearch,ebed2d232647367625565dba551416ed4ca676d6,0,,?,
+ElasticSearch,f5b07e438fd6368af4a2014fb1971cb1cfcd7ca2,1,Remove duplicate,1,Redundancy debt
+ElasticSearch,2f8f440e8060cf3578e0f67801b1d12329103d20,1,Fix conditionals,1,Configuration debt
+ElasticSearch,f4d6d8139d1f0464e77c103639906e074469af0a,1,Fix exception,1,Unstable code
+ElasticSearch,3911770aa82112c6362e030b270eaa057da97241,0,,,
+ElasticSearch,7efd19f85d08088467b79a8e0e653ee4a87c572c,0,,,
+ElasticSearch,d5c440cd2e80ac7d19d494b0adfbbfb358afcc32,0,,,
+ElasticSearch,42ebfe7bdb6e2ad17cc57be85ae8a86fc3d9c2b2,0,,,
+ElasticSearch,512585da8254617dcc8b7f988a2bbc0d7550bf42,0,,,
+ElasticSearch,10a76ad5d8085a6d951a4bdfb806c713af989c12,1,Fix Data Processing,0,
+ElasticSearch,c08ad0cad674773ecdbc8300ddf252fb1ff8a6f9,1,Fix calculation,1,Model code styling
+ElasticSearch,cd8e02351b78099614b2f8feddb15fc5eef071b8,0,,,
+ElasticSearch,d36f376a8e13c69c3bd78b4d43f554b44b692ed1,1,Fix clustering,0,
+ElasticSearch,300618319157bb653c841e8fe51037743938701f,1,Fix model setup,1,Validation calculation
+ElasticSearch,9513dd0a4aa6728f7695f12b7f8d3b2a1c4f9e08,0,,,
+ElasticSearch,71149fb6d4fd533f99d82a45b4276e887645608f,1,Fix exception,1,Unstable code
+ElasticSearch,de938531fa60a4df9bcaca261042b96b43aa10b5,1,Fix model setup,1,Model code comprehension
+ElasticSearch,4c71eb2e6de18ed2757136c4b5816530854ec38a,0,,,
+ElasticSearch,e98336872cbbda8065806d8174b201254196253a,0,,,
+ElasticSearch,4a5242c9e51c8a81fb210de0273f687160a2cf16,1,Fix model setup,1,Configuration debt
+ElasticSearch,876c7e04006750584f88c50305cf2ccc37523a2b,1,Fix model setup,1,Validation calculation
+ElasticSearch,a2a0e96c77e7f5bd10980aa7a3228c58585ac18f,0,,,
+ElasticSearch,3c0cc22d36ce584f4d1136b030371835d8306482,0,,,
+ElasticSearch,0a50ed0a272e13d78f8329b2b1e469cab1fc6b82,1,Fix Data Processing,0,
+ElasticSearch,88f3afe4b51b8e237c7493750e300e328f5792b6,0,,,
+ElasticSearch,f0356b21264e008c5434bba0f27fd0b045e3515f,1,Fix exception,1,Unstable code
+ElasticSearch,bad8643978f79ea5d26aff9cb4a58ba95ee44611,0,,,
+ElasticSearch,499cff3b1ef5dcb3564f09709e70eaa01616cd46,0,,,
+ElasticSearch,1037d071bfc2b6e535ec1f532681afdd837b2502,1,Fix model setup,1,Validation calculation
+ElasticSearch,2fe7cde8d1b44215657a6d7096e4f03dc0eda3db,1,Fix exception,1,Unstable code
+ElasticSearch,3893417c44e36d0e1b59a87b0820b1ebe7846345,0,,,
+ElasticSearch,ea8e3661d0050cc950781520a8b4e2d9eab24b8f,0,,,
+ElasticSearch,125726a0f206148ffd172cccf8f42e7a8e69c9c8,1,Fix clustering,0,
+ElasticSearch,5acf565e056cf01eda5a40937f36c3ddb780709d,1,Fix validation,1,Configuration debt
+ElasticSearch,d0300b3f59f96c3f4a9aa90ae4e34c1c7c261164,1,Fix model setup,1,Data preprocessing
+ElasticSearch,c1c2ce30b3e7f4ae0272b197d7768faee901abf5,1,Fix model setup,0,
+ElasticSearch,0e5332f86c84a48206c71b481186ba0bc2f3b570,0,,,
+ElasticSearch,f5f03433553952ec806aaefd542c2054117d86b0,0,,,
+ElasticSearch,b3274bd770c01c6166bc2ad52e327e879c331c95,1,Fix Data Processing,1,Data preprocessing
+ElasticSearch,36f64a39d6493e6b0336e4172daa86458598dae2,1,Fix clustering,1,Configuration debt
+ElasticSearch,bccf0308412f768d317b49da1c594b64eeb78b00,0,,,
+ElasticSearch,cccce2b11452c464c6de2f081aba24a538cb21d1,0,,,
+ElasticSearch,cd0857cc8aba5845239d23b07df126b0d296ca96,1,Fix threading,1,Unstable code
+ElasticSearch,2ef4a5e84c8ac081e1be88f14f2dbef832e2221b,0,,?,
+ElasticSearch,d611ab48550180bd735d2f9819f16932dd38b167,0,,,
+ElasticSearch,2ca5fd64fee20fd9ccbb380845581e765863a1d1,1,Fix model setup,1,Validation calculation
+ElasticSearch,6389432b28817b82b0ae8d5c67f0f7a47c32cbaa,1,Fix clustering,0,
+ElasticSearch,6c06aacb575bbc6bbea28fb522573e174e18fae8,1,Fix model setup,1,Hyperparameter tuning
+Elki,bdf23bc7c46ee7b2f9c6e77b35dc04669fbcd172,0,,,
+Elki,636c990c535c6eba6e8763a3e85a01e8880b525c,1,Fix initialization,1,Configuration debt
+Elki,2c77c18e547ba8568b778cb9920cbd99e840be40,1,Fix value update,0,
+Elki,5c8a15cbe20a17c7e91122f02f2c336ffdf72a46,0,,,
+Elki,1ea5eafc2f785f14c2b41d77debbff89c5ae2c1d,0,,,
+Elki,05451fe7a4fff1410f69c3ec55d747c99def88c9,1,Fix clustering,0,
+Elki,2105b78582775214820f040255eb92aa5644ecda,1,Fix exception,1,Unstable code
+Elki,3960f00f4a0a55cf9a0fa164d25a55c6d79c1c2e,1,Fix value update,0,
+Elki,0d392dae2375d0088d03cedd6d269806f7c79e93,1,Fix clustering,0,
+Elki,b669f94d8f916ef331a6d8684682a0de1f0568ff,0,,,
+Elki,25103129b3a43f6c535a7eb4735bafdfd1e1fa61,0,,,
+Elki,9ac115695dfd51d236f38293c10af8a518ee3dc3,0,,,
+Elki,9dbd30a1367a78939fe7f58cb8ea65efedf80628,1,Remove duplicate,1,Redundancy debt
+Elki,ffc775c05cdbf734cd481a4ea70edac00e16eddb,0,,,
+Elki,3867e424110c0ac138bc496f595d366478c9f9d7,1,Fix calculation,1,Unstable code
+Elki,b45318c575932cf3f741d09432550d48a66d9df5,0,,,
+Elki,8e99d80beabb13567279676c363d66129954d4ea,1,Fix implementation,0,
+Elki,50128cb261a71e36cc88062bfcccd33146ba3c9b,1,Fix model setup,1,Validation calculation
+Elki,678d3ef93ba3e468969de54bd2aa24e65d034324,0,,,
+Elki,3bd1f7d681e4fbbdc333ec7a5fcbf8b8b2247f0e,1,Fix clustering,0,
+Elki,bee2a8c4e4e0612fe8b4643b6457f0a8b686a2a7,1,Fix clustering,1,Data preprocessing
+Grobid,163a3e1c91708aaa93849d10c3869249d2c6cf66,0,,,
+Grobid,ef4085a0d9bb259dc82aaf552a7725f91da20844,0,,,
+Grobid,2473599c1ff77299bb3fd12dc8343f6f61346474,1,Fix model setup,1,Model code comprehension
+Grobid,76c3f0e91804c01e515bce5f3aaa81add0f13aae,1,Fix clustering ,1,Data preprocessing
+Grobid,62599b4347b2007f84610fe6763e7c5d068c0b64,0,,,
+Grobid,15fbf0252d4f74815ba5a9bf503d42fed880c68e,0,,,
+Grobid,e9c371b9f4d2be5e7575a90c2c2d135691b9e825,1,Fix functions,0,
+Grobid,331d27b57f2e18335a38cf035589c312a91c05a5,1,Fix data processing,1,Data preprocessing
+Jenetics,dea170cd8394ce02e4540a57986141be6ffa30d8,0,,,
+Jenetics,d8daaf7da2ed941f7c1c571122abd379a6e5b43a,1,Fix data processing,1,Data preprocessing
+Jgap,be07b88d7ea2050a3714e35ec6b06046ed30986a,0,,,
+Jgap,fa74efd344b0b3bec57be8b0394346cf581ba737,1,Fix data processing,1,Configuration debt
+Jgap,67c9b24cae2e1c4000f3dab0f3ee37361ca2378d,1,Fix datatype,1,Data preprocessing
+Jgap,0c22b4afc17eba5107bcbf33e24a048c73fc87d0,1,Fix model setup,1,Configuration debt
+Knime-core,5d6cafb8d4f76923d9d5dd917829f9e15da8e7bc,1,Fix calculation,0,
+Knime-core,c7fd79c4c4a276ecc082e1e49a8dd2b1095b8cd3,0,,,
+Knime-core,d676bb59b7502ff281c39e13fccbe6539121ca33,1,Fix model failure,1,Data preprocessing
+Knime-core,7785533e997ecdbd0d6ffbf9ae110885e4f29ea1,0,,,
+Knime-core,677ed42200be8481c5f39f91ce17595549665091,1,Fix exception,1,Unstable code
+Knime-core,2c42f102ebc9369591bee0442e8789ca705eaeea,0,,,
+Knime-core,741d79d570b8b11fc00fa86ce2e4d61e40695aa4,0,,,
+Knime-core,5888e7096e8a452a9f576b40e7a49a334b669cfa,1,Fix default value,1,Configuration debt
+Knime-core,2c7c9cba6f4b270c6e49ac977db3906580b30461,1,Fix model setup,1,Data preprocessing
+Knime-core,740f273ce41189385f0f12f93d5917ec356bc19b,1,Fix model failure,1,Data preprocessing
+Knime-core,5bbeed18366fe65bd89548a567d644db288a4961,1,Fix data processing,1,Unstable code
+Knime-core,5f18ed2b85118c3030216cddba3bad6c1a46c933,1,Fix exception,1,Unstable code
+Knime-core,6562d51ca5d852b3fa625dd46108a7254059909c,0,,,
+Knime-core,950288a09b1ec014d3f58394fb8655d9c969680f,1,Fix model setup,1,Configuration debt
+Knime-core,6caf22ed499f2eb6b6fa7b7c56f8b090600b0272,1,Fix estimation,1,Validation calculation
+Knime-core,8f260ddfc78010d41cd16c97c02a71ae2f3a1c44,1,Fix threading,1,Unstable code
+Knime-core,573c27612b0a538b67d27fd5712b06802a1bbc2e,1,Fix function,1,Training code update
+Knime-core,174e0f28ea647aaedb92be0eb4b516cc5a621497,1,Fix model setup,1,Configuration debt
+Knime-core,16cca99115cf7f798ca655f95dd527a4f2f341cb,1,Fix model setup,1,Datatype inconsistency
+Knime-core,d35ae93cb6e6b92ba82765939eef76a65d12f544,1,Remove duplicate,1,Redundancy debt
+Knime-core,48179bc1cc1e5a94fcdcc297999d5f55f86b7c5d,1,Fix model setup,1,Configuration debt
+Knime-core,81ae91f28d6804f282141902a6dc086da12c26f7,1,Fix threading,1,Unstable code
+Knime-core,e7b148a9c93ba0b0d1f4d75ef2b80f11bfb5f0e3,1,Fix exception,1,Unstable code
+Knime-core,7aa0712634339f1903e2035310894e11c3a4b7b5,1,Fix model setup,1,Configuration debt
+Knime-core,d9c1fccd1527c8a98736fb21fb620f5a512c5662,1,Fix clustering,1,Validation calculation
+Knime-core,e77406d5ee8013736edbda888752753ea272d5d4,1,Fix calculation,1,Configuration debt
+Knime-core,60f1ae94c314148eb0d26fbd2c134a1e688c9ca7,0,,,
+Knime-core,6a88dbfe15e6982b66e7996e0d108e9f86f36678,0,,,
+Knime-core,1ba755ba4eb40bde73617f19fd675705cb9396bf,1,Fix initialization,1,Configuration debt
+Knime-core,46157347d20b032d5e37a798b9e9f98bd37c98b5,0,,,
+Knime-core,1e9958badbba4835dbc8c5f459995a4aa5d6a545,0,,,
+Knime-core,c93bc17e6cc703ad76fba8cf0079e4c0602ad33d,0,,,
+Knime-core,248ec1f580fc0ac3aa463b91cda716d8af5fac13,1,Fix exception,1,Unstable code
+Knime-core,f36af250b79d8d37cd77f44173b4afdaacbdb9db,1,Fix exception,1,Unstable code
+Knime-core,78db5d5a3947198247643d58d54706cc08757a60,1,Fix exception,1,Unstable code
+Knime-core,61efb55d0418246b8af9c8254726da9c6e2af9b7,1,Fix model setup,1,Data preprocessing
+Knime-core,60694317ae725137dc6e95a083712b5025f42f99,1,Fix exception,1,Unstable code
+Knime-core,d3cd99a688872ec085e7f37116c0b5fcd5c70e34,0,,,
+Knime-core,58e32a1d5a975cf374fc5fd3be063f5c60ddee1e,1,Fix exception,1,Unstable code
+Knime-core,2999e09e222f1ad9f72996c7e9ae4bc0b7a7c98e,1,Fix model setup,,
+Knime-core,9b3d9a691bbad55dfdf2025a5b772e8585d15c9f,0,,,
+Knime-core,3a806b577a9956d39ff25e1758f4b7b2e4152d8a,0,,,
+Knime-core,d1cdb57dd37c5df9d0a90dd147eeba9f4b74311d,1,Fix model failure,1,Data preprocessing
+Knime-core,66593d42661bdd12f7ecb3f209f38e12af61a64e,0,,,
+Knime-core,f0157877b85602b7df4365177da9f2d639359e6d,0,,,
+Knime-core,78dfbfbc6d15f752977a808a06364dd4137d4b9b,1,Fix model failure,1,Data preprocessing
+Knime-core,96c775a2044eb75489b222ca0c894b1d8f55a090,0,,,
+Knime-core,1eae9d345ba92098258f6736237cf46fddc9c1c0,0,,,
+Knime-core,fc91d7593fbe91d9c54e2f9aa0b08ac153115784,1,Fix exception,1,Unstable code
+Knime-core,db40d74977b1b6aeb8c4ce49d4bda36dcdafd32b,1,Fix model failure,1,Data preprocessing
+Knime-core,6002c451b5204faa1a472b2aede839dc114c1e28,1,Fix model setup,1,Configuration debt
+Knime-core,048dddf7d2326060837f1465f30321e502815c15,1,Fix model setup,1,Configuration debt
+Knime-core,781c539f3e10bf4a199d7d82cc274245b5b3860c,1,Fix validation,1,Configuration debt
+Knime-core,ced02f06526ca7f164d9fcf84ec446919fd78a71,1,Fix model setup,1,Configuration debt
+Knime-core,65a597ff926bdfbbb0cb934c732ffecddb3c02fd,1,Fix data processing,1,Data preprocessing
+Knime-core,7fc6fd8e57487c06400b51da70b934e77bca80fc,0,,,
+Knime-core,08c6903786be316f3e2b66b3948d9aacbce66616,0,,,
+Knime-core,925159916073ac24ecb33a9631f5d1de723ef088,1,Fix model setup,0,
+Knime-core,718f79c192099bd6d1e73b604b444d915adfaa73,1,Fix validation,1,Configuration debt
+Knime-core,702c08f797a6d63a4f871ab3110f1a589901c046,0,,,
+Mahout,2ead329cb23df8561510b4e3ca191cc77a6605cf,1,Fix implementation,0,
+Mahout,089dbf2633a6427852354881f75acecd8aa7cb54,0,,,
+Mahout,eccd384b0ed93fe51ba4d52b70f6a701c4bad50a,1,Fix calculation,1,Data preprocessing
+Mahout,7a387ddb1c4196b25554f7fadd56a69749d79867,0,,,
+Mahout,8150e795c22e43ab7cbb5f265684bcaccc4f2cb6,1,Fix value update,1,Data preprocessing
+Mahout,4eac2cb442d62f12e532621cbcd666a0237635f4,0,,,
+Mahout,bd96a63b8f64a44a1d18c5ffffc36a75af628dac,1,Fix model setup,1,Data preprocessing
+Mahout,217b964e9b54c0ed18c24d423ee4472e38ee034d,0,,,
+Mahout,073255d3fe33ee0bc365d595129cf612585283e5,1,Unnecessary code removal,1,Configuration debt
+Mahout,ba3c70cde5315abc5c33926bfec4bbc7cea7a79b,0,,,
+Mahout,bd368539913733904e9ca74c19c726258f2c3bbe,0,,,
+Mallet,fddbbed4413eaf9fd9e1b101fb41a475b3e5c275,1,Fix data processing,1,Data preprocessing
+Mallet,4e7164a7f89b39431371d12ddb5cac6a7a330344,1,Fix initialization,1,Configuration debt
+Mallet,4e7164a7f89b39431371d12ddb5cac6a7a330344,1,Fix Calculation,1,Parameter estimation
+Mallet,9437733920f628e9e152ff99078c823e6b319646,0,,,
+Mallet,226ab399762c9e474d5a948a9bfe2a33e242a5bd,1,Fix model setup,1,Configuration debt
+Mallet,e8e48e815d1b97e6e053bdfbfa46cbe0be138b10,0,,,
+Mallet,be2fcf5a257ff70cde150969727744414c0eaf38,0,,,
+Mallet,d34ea8c62b8e1fd7b4dc4dddf5184bc720144db2,1,Fix model setup,1,Parameter estimation
+Mallet,006492e1f5da2d3cd468ed7c539001c4078259f9,0,,,
+Mallet,fd6a68b0236129de3faee1556393f051afdc9841,1,Fix model setup,1,Configuration debt
+Mallet,bb2e0b39f1226bbf58afdf94efe2770e5750e412,1,Fix clustering ,1,Data preprocessing
+Mallet,a32cc42e90344215942ff39559aa1611df52f58c,1,Fix Calculation,1,Validation calculation
+Mallet,30075338d8d4f76da961a18db4a2d1a6f07a1d85,1,Fix initialization,1,Configuration debt
+Mallet,128f7b61373c19ef02692f17e6f4730b61df5228,1,Fix model setup,1,Parameter estimation
+Moa,e1de7c92e7549887271db658b14e2d1ed0085482,0,,,
+Moa,4b4a1b3d79e2accf24e4f10c2f5bfce9993148a4,1,Fix model setup,1,Validation calculation
+Moa,086fc1ceeb5dcb6abfc1533c0625936d3f21a9ef,1,Fix model setup,1,Configuration debt
+Modernmt,d3d56bbbbb70dc24cf3f7aef3f57e08ca059b781,0,,,
+Modernmt,daf9689fb2d888a832309382bdb4e688136bf434,1,Fix initialization,1,Configuration debt
+Modernmt,2c35eff7c0bdb2779dd0f7bcd0cd893b14d47c32,1,Fix data processing,1,Data preprocessing
+Modernmt,8dedafc8e4ae03d8aefde1136d5c93936f5430a1,0,,,
+Modernmt,c8b4120f3fea467a2832cfd688e2feaa225ffbf8,1,Fix exception,1,Unstable code
+Modernmt,f11b0c66acb6b53e4f0e8cb075d610e85967acc6,0,,,
+Modernmt,748f4f4afb3b38521c67b1ff6e2575662be98193,0,,,
+Mutters,cf746cb34221affb4a9d2e1d5bd5a18619dcfaa5,1,Fix model setup,0,
+Mutters,277ee5a10a28816f893ecafed34ce8a65789281d,1,Fix default value ,1,Data preprocessing
+Neo4j-nlp,126d46b6e4c7d7504a7ccfed85ccf8c9fe23bf69,1,Fix data processing,1,Data preprocessing
+Neo4j-nlp,c18584193062a5275dd0aae7f6100339a46ea1be,1,Fix implementation,1,Monitoring and testing
+Neo4j-nlp,aa0689d61015502384c905c09cc71ff511448807,1,Fix implementation,1,Data preprocessing
+Neo4j-nlp,178ff205c574614ec1b6048cc19b261cfebf605b,1,Fix validation,1,Data preprocessing
+Neo4j-nlp,d8d815e86544be07ae27f444c842bdc2cb2e346b,1,Fix implementation,1,Data preprocessing
+Smile,55b10195673d579b00dca2c83dbe146c1d27bbac,1,Fix model setup,1,Parameter estimation
+Smile,618b3f513afac81235acef49d11fe6847ee685f3,1,Fix model setup,1,Configuration debt
+Smile,f9d1758efd959ff60b16f978b68316aa35ad48f0,1,Fix model setup,1,Training code update
+Smile,12f8bbebd6ce168f113157fda0e3cb8b3792f729,1,Fix model setup,1,Model code comprehension
+Smile,bbd97e7855f54132ea5d84c3cf479b6e79efadb1,1,Fix conditionals,1,Model code comprehension
+Smile,a6403b880671427d8d40c727050805e27fe2368e,1,Fix model setup,1,Configuration debt
+Submarine,55e4584aaf904b4a8651775c8ed11dacb848e00e,0,,,
+Submarine,654598bdfdab6f63496a02e00cc45f9e5575fc39,0,,,
+Submarine,7dba2360d8c3e9a005f1b31666801c5bf9b8d34b,1,Fix library issue,1,Configuration debt
+TableSaw,b3bbcbacff39b8e3d4f83ac803c846e26119066f,0,,,
+TableSaw,06db8082afe113a091a1891682c9258e773f5cb9,1,Fix data processing,1,Configuration debt
+TableSaw,68362000446ee956c825c78b485067e311793a9f,0,,,
+TableSaw,7c8645b347e40800f9873b3c8b112f5800d793ea,1,Fix value update,,
+TableSaw,50860555aa20798343ea80dad00167897a4ffd32,0,,,
+TableSaw,7a65ca46bb44e328649094b5ee7f98827860fa8f,1,Fix implementation,1,Validation calculation
+TableSaw,0e660cc82117ee70a7e9a0dab0ead4ed0a4b3449,0,,,
+Vespa,1de39885e3a4a4a2c3147ea5ddf4f1733048294e,1,Fix exception,1,Unstable code
+Vespa,357ec015988d671218d4f0c4ead9a51208c9e436,0,,,
+Vespa,a6bd5913e4ea3cf33fc75afa24514e258194988a,0,,,
+Vespa,e13eeaee7417134a0d67a3a144906a44351b6900,1,Fix clustering,1,Configuration debt
+,,198,,167,
